@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Jane Justiz
 header-img: img/home-bg.png
 email: janejustiz@gmail.com
 copyright_name: janejustiz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Jane's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  janejustiz
